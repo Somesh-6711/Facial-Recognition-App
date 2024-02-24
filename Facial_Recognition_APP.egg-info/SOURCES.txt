@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Facial_Recognition_APP.egg-info/PKG-INFO
+Facial_Recognition_APP.egg-info/SOURCES.txt
+Facial_Recognition_APP.egg-info/dependency_links.txt
+Facial_Recognition_APP.egg-info/requires.txt
+Facial_Recognition_APP.egg-info/top_level.txt
