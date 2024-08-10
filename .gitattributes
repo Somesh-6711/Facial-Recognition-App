@@ -1,0 +1,2 @@
+venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
+lfw.tgz filter=lfs diff=lfs merge=lfs -text

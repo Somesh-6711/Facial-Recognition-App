@@ -1,0 +1,18 @@
+pandas
+numpy>=1.21.5
+seaborn
+datasets
+sacrebleu
+rouge_score
+py7zr
+nltk
+tqdm
+PyYAML
+matplotlib>=3.5.1
+torch
+notebook
+boto3
+keras
+opencv-python>=4.5.4
+tensorflow>=2.8.0
+-e .
